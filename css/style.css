@@ -1,0 +1,124 @@
+* {
+	margin: 0px;
+	padding: 0px;
+
+}
+.container{
+	width: 1140px;
+	margin: 0px auto;
+
+}
+header{
+	background: url(../img/photo-.jpg);
+	padding: 100px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	float: left;
+
+
+}
+.text h2 {
+	font-size: 30px;
+	text-transform: capitalize;
+
+	
+
+}
+.text p {
+	text-transform: capitalize;
+	margin-top: 10px;
+	
+	
+}
+.text ul{
+
+	
+	list-style-type: none;
+	text-transform: capitalize;
+
+}
+.text ul li{
+	margin-top: 10px;
+	
+	padding: 5px;
+
+
+}
+
+.btn{
+	margin: 10px;
+	padding: 10px 10px;
+	background-color: green;
+	color: #fff;
+	border-radius: 10px;
+
+}
+.btn:hover{
+	background-color: red;
+
+}
+.login-page{
+	float: left;
+	width: 25%;
+	padding: 50px 15px;
+	background-color:red;
+	margin-top: -200px;
+	
+	
+	float: right;
+	
+
+	
+
+}
+.button{
+	
+	padding: 10px 10px;
+	background-color: green;
+	color: #fff;
+	display: block;
+	margin: 10px auto;
+	border-radius: 10px;
+
+}
+.button:hover{
+	background-color: black;
+
+}
+.login-page h2{
+	text-align: center;
+	font-size: 25px;
+	color: #fff;
+
+}
+.login-page p{
+	text-align: center;
+	color: #fff;
+	margin: 10px;
+
+
+}
+.one{ 
+	text-align: center;
+	margin: 5px 30px;
+	padding: 5px 30px;
+
+}
+.two{
+	text-align: center;
+	margin: 5px 30px;
+	padding: 5px 30px;
+
+}
+.three{
+	text-align: center;
+	margin: 5px 30px;
+	padding: 5px 30px;
+
+}
+.four{
+	text-align: center;
+	margin: 5px 30px;
+	padding: 5px 30px;
+
+}
